@@ -1,6 +1,6 @@
 import requests
 
-URL = "https://wannkommtwas.de"
+URL = "https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0"
