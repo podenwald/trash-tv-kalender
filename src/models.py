@@ -1,8 +1,11 @@
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import date
 
-@dataclass
+
+@dataclass(frozen=True)
 class TvEvent:
     title: str
-    date: datetime
+    event_date: date
+    source: str
     url: str
+    description: str = ""
