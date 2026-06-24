@@ -48,3 +48,9 @@ TVMovie veröffentlicht die Termine als redaktionellen Artikel. Der Parser ist d
 - Dopplungen werden entfernt
 
 So vermeiden wir falsche Termine im Kalender.
+
+
+## Version 2: Laufende Sendungen
+
+Der Parser erkennt zusätzlich wöchentliche Hinweise wie `immer montags`, `wöchentlich dienstags` oder `ab dem ... immer mittwochs`.
+Wenn kein Finale genannt wird, werden standardmäßig die nächsten 12 Wochen erzeugt. Bereits laufende Sendungen werden ab dem heutigen Datum fortgeführt, nicht rückwirkend komplett eingetragen.
