@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Temptation Island
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-06-16-temptation-island@trash-tv-kalender
 DESCRIPTION:finale am: Temptation Island : immer dienstags auf RTL+\, Fina
  le am 16. Juni und die Reunion am 23. Juni.\n\nQuelle: TVMovie Trash-TV-Ka
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Reality Star Academy mit Désirée Nick
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-06-18-die-reality-star-academy-mit-désirée-nick@trash-tv-kalend
  er
 DESCRIPTION:bis: Die Reality Star Academy mit Désirée Nick : bis 18. Jun
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Temptation Island
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-06-23-temptation-island@trash-tv-kalender
 DESCRIPTION:reunion am: Temptation Island : immer dienstags auf RTL+\, Fin
  ale am 16. Juni und die Reunion am 23. Juni.\n\nQuelle: TVMovie Trash-TV-K
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-06-25-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Termin: „Eden - Du bezahlst für jede Lüge“: Neue Reality
  -Showab Donnerstag\, 25. Juni 2026 bei Joyn\n\nQuelle: TVMovie Trash-TV-Ka
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-06-30-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:ab dem: „Bad Boyfriends – Jetzt wird abgerechnet” : Ab d
  em 30. Juni wöchentlich eine Doppelfolge bei RTL+\n\nQuelle: TVMovie Tras
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „20 Jahre Goodbye Deutschland“
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-07-20-20-jahre-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:ab dem: „20 Jahre Goodbye Deutschland“: die Jubiläumsstaf
  fel startet ab dem 20. Juli\, um 20.15 Uhr auf VOX\n\nQuelle: TVMovie Tras
@@ -83,23 +83,10 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-DTSTAMP:20260728T062905Z
-UID:2026-07-28-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
- – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
- ei RTL +\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
- /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-07-29-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -112,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-07-30-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -125,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-07-30-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -138,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260731
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-07-30-good-luck-guys@trash-tv-kalender
 DESCRIPTION:startet am: „Good Luck Guys“ : Die neue Staffel startet am
   30. Juli bei Joyn und am 31. Juli im Free-TV bei sixx\n\nQuelle: TVMovie 
@@ -151,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-07-31-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -164,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-07-31-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -177,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-07-31-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -189,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-07-31-good-luck-guys@trash-tv-kalender
 DESCRIPTION:am: „Good Luck Guys“ : Die neue Staffel startet am 30. Jul
  i bei Joyn und am 31. Juli im Free-TV bei sixx\n\nQuelle: TVMovie Trash-TV
@@ -202,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-03-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -215,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-03-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:ab dem: Die Verräter läuft mit acht Folgen ab dem 17. August
   von Montag bis Donnerstag jeweils um 20:15 Uhr bei RTL . Auf RTL+ beginnt
@@ -232,7 +219,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-03-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:ab dem: Die neue Staffel „ Villa der Versuchung “ läuft a
@@ -247,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-03-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -260,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-03-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:ab dem: Sat.1 und Joyn starten ab dem 3. August das neue Reali
  ty-TV-Format „Dschungel Divas - Jede Versuchung kostet“ und verspreche
@@ -275,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260804
 DTEND;VALUE=DATE:20260805
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-04-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -288,7 +275,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-05-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -301,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-06-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -314,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260807
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-06-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -327,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-07-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -340,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-07-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -353,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-07-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -365,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-10-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -378,7 +365,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-10-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -396,7 +383,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-10-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -411,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-10-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -424,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-10-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -440,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-11-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -453,7 +440,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-12-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -463,10 +450,23 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📺 „ Are You The One? – Realitystars in Love “
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DTSTAMP:20260729T063358Z
+UID:2026-08-12-are-you-the-one--realitystars-in-love@trash-tv-kalender
+DESCRIPTION:startet am: „ Are You The One? – Realitystars in Love “ 
+ startet am 12. August bei RTL+.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttp
+ s://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rt
+ l-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-13-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -479,7 +479,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-13-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -492,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-14-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -505,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-14-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -518,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-14-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-17-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -543,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-17-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:ab dem: Die Verräter läuft mit acht Folgen ab dem 17. August
   von Montag bis Donnerstag jeweils um 20:15 Uhr bei RTL . Auf RTL+ beginnt
@@ -560,7 +560,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-17-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -575,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-17-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -588,7 +588,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-17-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -604,7 +604,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260818
 DTEND;VALUE=DATE:20260819
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-18-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -617,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-19-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -630,7 +630,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-20-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -643,7 +643,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-20-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-21-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -669,7 +669,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-21-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -682,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-21-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -694,7 +694,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-24-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -707,7 +707,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-24-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -725,7 +725,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-24-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-24-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -753,7 +753,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-24-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -769,7 +769,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-25-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -782,7 +782,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-26-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -795,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-27-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:am: Die Verräter läuft mit acht Folgen ab dem 17. August von
   Montag bis Donnerstag jeweils um 20:15 Uhr bei RTL . Auf RTL+ beginnt das
@@ -811,7 +811,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die neue Staffel „ Beauty & the Nerd “
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-27-die-neue-staffel--beauty--the-nerd@trash-tv-kalender
 DESCRIPTION:startet am: Die neue Staffel „ Beauty & the Nerd “ startet
   am 27. August bei Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.
@@ -824,7 +824,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-27-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -837,7 +837,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-27-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -850,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-28-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -863,7 +863,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-28-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -876,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-28-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -888,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-31-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -901,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-31-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -919,7 +919,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-31-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -934,7 +934,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-31-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -947,7 +947,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-08-31-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -963,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-01-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -976,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-02-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -989,7 +989,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-03-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -1002,7 +1002,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-03-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -1015,7 +1015,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-04-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1028,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-04-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -1041,7 +1041,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-04-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -1053,7 +1053,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-07-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -1066,7 +1066,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-07-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1084,7 +1084,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-07-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1099,7 +1099,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-07-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1112,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-07-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -1128,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-08-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -1141,7 +1141,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-09-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -1154,7 +1154,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-10-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -1167,7 +1167,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-10-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -1180,7 +1180,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-11-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1193,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-11-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -1206,7 +1206,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-11-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -1218,7 +1218,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-14-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -1231,7 +1231,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-14-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1249,7 +1249,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-14-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1264,7 +1264,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-14-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1277,7 +1277,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-14-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -1293,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-15-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -1306,7 +1306,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-16-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -1319,7 +1319,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-17-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -1332,7 +1332,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-17-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -1345,7 +1345,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-18-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1358,7 +1358,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-18-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -1371,7 +1371,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-18-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -1383,7 +1383,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-21-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -1396,7 +1396,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-21-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1414,7 +1414,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-21-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1429,7 +1429,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-21-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1442,7 +1442,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-21-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -1458,7 +1458,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-22-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -1471,7 +1471,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-23-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -1484,7 +1484,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-24-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -1497,7 +1497,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-24-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -1510,7 +1510,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-25-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1523,7 +1523,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-25-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -1536,7 +1536,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-25-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -1548,7 +1548,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-28-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -1561,7 +1561,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-28-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1579,7 +1579,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-28-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1594,7 +1594,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-28-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1607,7 +1607,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-28-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -1623,7 +1623,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-29-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -1636,7 +1636,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-09-30-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -1649,7 +1649,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-01-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -1662,7 +1662,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-01-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -1675,7 +1675,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-02-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1688,7 +1688,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-02-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-02-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -1713,7 +1713,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-05-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -1726,7 +1726,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-05-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1744,7 +1744,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-05-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1759,7 +1759,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-05-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1772,7 +1772,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-05-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -1788,7 +1788,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-06-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -1801,7 +1801,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-07-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -1814,7 +1814,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-08-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -1827,7 +1827,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-08-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -1840,7 +1840,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-09-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1853,7 +1853,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-09-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -1866,7 +1866,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-09-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -1878,7 +1878,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-12-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -1891,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-12-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1909,7 +1909,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-12-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1924,7 +1924,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-12-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1937,7 +1937,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-12-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -1953,7 +1953,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-13-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -1966,7 +1966,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-14-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -1979,7 +1979,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-15-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -1992,7 +1992,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-15-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -2005,7 +2005,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-16-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -2018,7 +2018,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-16-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -2031,7 +2031,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-16-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -2043,7 +2043,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-19-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -2056,7 +2056,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-19-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -2074,7 +2074,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-19-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -2089,7 +2089,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-19-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -2102,7 +2102,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-19-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -2118,7 +2118,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-20-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
  – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
@@ -2131,7 +2131,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Bachelors
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-21-die-bachelors@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Bachelors : imme
  r mittwochs bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
@@ -2144,7 +2144,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Prominent Getrennt
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-22-prominent-getrennt@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Prominent Getrennt: 
  immer donnerstags bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://w
@@ -2157,7 +2157,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-22-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: Vor TV-Ausstrahlung laufen neue Folgen donnerstags b
@@ -2170,7 +2170,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-23-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -2183,7 +2183,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-23-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer freitags um 20:15 Uhr eine neue Folge bei VOX und bei RTL+\n\nQuell
@@ -2196,7 +2196,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Match My Ex
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-23-match-my-ex@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Match My Ex : immer 
  freitags auf Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovi
@@ -2208,7 +2208,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Bauer sucht Frau International
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-26-bauer-sucht-frau-international@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Bauer sucht Frau Int
  ernational : immer montags und dienstags eine neue Folge bei RTL und RTL+\
@@ -2221,7 +2221,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-26-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -2239,7 +2239,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-26-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -2254,7 +2254,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-26-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -2267,7 +2267,7 @@ BEGIN:VEVENT
 SUMMARY:📺 wohl härteste Ladys-Only- Dschungelcamp
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260728T062905Z
+DTSTAMP:20260729T063358Z
 UID:2026-10-26-wohl-härteste-ladys-only--dschungelcamp@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  en ab dem 3. August das neue Reality-TV-Format „Dschungel Divas - Jede V
@@ -2276,6 +2276,19 @@ DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Sat.1 und Joyn start
  m Stream bei Joyn .\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmo
  vie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15113
  0
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Bad Boyfriends – Jetzt wird abgerechnet
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20260729T063358Z
+UID:2026-10-27-bad-boyfriends--jetzt-wird-abgerechnet@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Bad Boyfriends 
+ – Jetzt wird abgerechnet” : Immer dienstags gibt es eine Doppelfolge b
+ ei RTL +\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
