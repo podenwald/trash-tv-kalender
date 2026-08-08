@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-03-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:ab dem: Die Verräter läuft mit acht Folgen ab dem 17. August
   von Montag bis Donnerstag jeweils um 20:15 Uhr bei RTL . Auf RTL+ beginnt
@@ -24,7 +24,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-03-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:ab dem: Die neue Staffel „ Villa der Versuchung “ läuft a
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-03-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:ab dem: „Dschungel Divas - Jede Versuchung kostet“ : das n
  eue Reality-TV-Format startet ab dem 3. August und läuft jeweils montags 
@@ -50,23 +50,10 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 Ex on the Beach
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-DTSTAMP:20260807T054218Z
-UID:2026-08-07-ex-on-the-beach@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-10-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -84,7 +71,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-10-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -99,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-10-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -112,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Amore unter Palmen“
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-10-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Termin: „Amore unter Palmen“: Die 2. Staffel startet am Mo
  ntag\, 10. August\, bei Joyn im Stream und läuft um 0:55 Uhr in Doppelfol
@@ -125,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20260810
 DTEND;VALUE=DATE:20260811
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-10-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -139,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-12-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:startet am: „ Are You The One? – Realitystars in Love “ 
  startet am 12. August bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps
@@ -152,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-13-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -166,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-13-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -180,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-14-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -193,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-17-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:ab dem: Die Verräter läuft mit acht Folgen ab dem 17. August
   von Montag bis Donnerstag jeweils um 20:15 Uhr bei RTL . Auf RTL+ beginnt
@@ -210,7 +197,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-17-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -225,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-17-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -238,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-17-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -252,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-20-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -266,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-20-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -280,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-21-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -293,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-24-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -311,7 +298,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-24-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -326,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-24-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -339,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-24-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -353,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-27-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:am: Die Verräter läuft mit acht Folgen ab dem 17. August von
   Montag bis Donnerstag jeweils um 20:15 Uhr bei RTL . Auf RTL+ beginnt das
@@ -369,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die neue Staffel „ Beauty & the Nerd “
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-27-die-neue-staffel--beauty--the-nerd@trash-tv-kalender
 DESCRIPTION:startet am: Die neue Staffel „ Beauty & the Nerd “ startet
   am 27. August bei Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.
@@ -382,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-27-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -396,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-27-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -410,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-28-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -423,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-31-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -441,7 +428,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-31-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -456,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-31-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -469,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-08-31-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -483,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-03-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -497,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-03-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -511,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-04-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -524,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-07-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -542,7 +529,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-07-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -557,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-07-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -570,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-07-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -584,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-10-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -598,7 +585,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-10-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -612,7 +599,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-11-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -625,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-14-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -643,7 +630,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-14-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -658,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-14-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -671,7 +658,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-14-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -685,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-17-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -699,7 +686,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-17-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -713,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-18-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -726,7 +713,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-21-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -744,7 +731,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-21-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -759,7 +746,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-21-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -772,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-21-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -786,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-24-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -800,7 +787,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-24-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -814,7 +801,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-25-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -827,7 +814,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-28-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -845,7 +832,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-28-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -860,7 +847,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-28-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -873,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-09-28-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -887,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-01-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -901,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-01-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -915,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-02-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -928,7 +915,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-05-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -946,7 +933,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-05-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -961,7 +948,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-05-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -974,7 +961,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-05-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -988,7 +975,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-08-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1002,7 +989,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-08-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1016,7 +1003,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-09-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -1029,7 +1016,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-12-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1047,7 +1034,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-12-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1062,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-12-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1075,7 +1062,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-12-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -1089,7 +1076,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-15-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1103,7 +1090,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-15-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1117,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-16-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -1130,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-19-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1148,7 +1135,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-19-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1163,7 +1150,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-19-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1176,7 +1163,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-19-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -1190,7 +1177,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-22-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1204,7 +1191,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-22-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1218,7 +1205,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-23-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -1231,7 +1218,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-26-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1249,7 +1236,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-26-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1264,7 +1251,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-26-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1277,7 +1264,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-26-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -1291,7 +1278,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-29-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1305,7 +1292,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-29-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1319,7 +1306,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-10-30-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
@@ -1332,7 +1319,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter läuft mit acht Folgen
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-11-02-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
   mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
@@ -1350,7 +1337,7 @@ SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
  . August 2026 immer montags um 20
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-11-02-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
  ust-2026-immer-montags@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
@@ -1365,7 +1352,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-11-02-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1378,7 +1365,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-11-02-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
   Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
@@ -1392,7 +1379,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-11-05-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1406,13 +1393,26 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260807T054218Z
+DTSTAMP:20260808T045946Z
 UID:2026-11-05-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
  V bei sixx um 23:00 Uhr\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.
  tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1
  51130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Ex on the Beach
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DTSTAMP:20260808T045946Z
+UID:2026-11-06-ex-on-the-beach@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
+ mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
+ r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
+ y-tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
