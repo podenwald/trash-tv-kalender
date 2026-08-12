@@ -4,69 +4,10 @@ PRODID:-//Trash TV Kalender//podenwald//DE
 X-WR-CALNAME:Trash TV
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260804
-DTSTAMP:20260811T051156Z
-UID:2026-08-03-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:ab dem: Die Verräter läuft mit acht Folgen ab dem 17. August
-  von Montag bis Donnerstag jeweils um 20:15 Uhr bei RTL . Auf RTL+ beginnt
-  das Rätselraten bereits ab dem 3. August . Immer montags und mittwochs s
- teht jeweils eine neue Folge bereit. Das große Finale läuft bei RTL am 2
- 7. August und ist auf RTL+ schon einen Tag früher zu sehen.\n\nQuelle: TV
- Movie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-kalender-sen
- determine-start-reality-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260804
-DTSTAMP:20260811T051156Z
-UID:2026-08-03-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:ab dem: Die neue Staffel „ Villa der Versuchung “ läuft a
- b dem 3. August 2026 immer montags um 20:15 Uhr in Sat.1\, parallel könnt
-  ihr die Show auch über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260804
-DTSTAMP:20260811T051156Z
-UID:2026-08-03-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:ab dem: „Dschungel Divas - Jede Versuchung kostet“ : das n
- eue Reality-TV-Format startet ab dem 3. August und läuft jeweils montags 
- um 22:15 Uhr bei Sat.1 und im Stream bei Joyn\n\nQuelle: TVMovie Trash-TV-
- Kalender\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start
- -reality-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 „Amore unter Palmen“
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DTSTAMP:20260811T051156Z
-UID:2026-08-10-amore-unter-palmen@trash-tv-kalender
-DESCRIPTION:Termin: „Amore unter Palmen“: Die 2. Staffel startet am Mo
- ntag\, 10. August\, bei Joyn im Stream und läuft um 0:55 Uhr in Doppelfol
- gen bei Sat.1.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.d
- e/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-12-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:startet am: „ Are You The One? – Realitystars in Love “ 
  startet am 12. August bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps
@@ -79,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-13-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -93,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260814
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-13-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -107,44 +48,26 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-14-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
+SUMMARY:📺 Die Verräter
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260811T051156Z
-UID:2026-08-17-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:ab dem: Die Verräter läuft mit acht Folgen ab dem 17. August
-  von Montag bis Donnerstag jeweils um 20:15 Uhr bei RTL . Auf RTL+ beginnt
-  das Rätselraten bereits ab dem 3. August . Immer montags und mittwochs s
- teht jeweils eine neue Folge bereit. Das große Finale läuft bei RTL am 2
- 7. August und ist auf RTL+ schon einen Tag früher zu sehen.\n\nQuelle: TV
- Movie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-kalender-sen
- determine-start-reality-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DTSTAMP:20260811T051156Z
-UID:2026-08-17-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DTSTAMP:20260812T053936Z
+UID:2026-08-17-die-verräter@trash-tv-kalender
+DESCRIPTION:ab dem: Die Verräter : immer montags und mittwochs im Stream 
+ auf RTL + \; im Free-TV bei RTL ab dem 17. August von Montag bis Donnersta
+ g jeweils um 20:15 Uhr. Finale am 26. August bei RTL+ und am 27. August be
+ i RTL.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/t
+ rash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -152,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-17-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -162,16 +85,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-08-17-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20260812T053936Z
 UID:2026-08-17-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DTSTAMP:20260812T053936Z
+UID:2026-08-17-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+DTSTAMP:20260812T053936Z
+UID:2026-08-18-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -179,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-20-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -193,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-20-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -207,45 +171,27 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-21-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
+SUMMARY:📺 Die Verräter
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260811T051156Z
-UID:2026-08-24-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-DTSTAMP:20260811T051156Z
-UID:2026-08-24-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DTSTAMP:20260812T053936Z
+UID:2026-08-24-die-verräter@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter : imme
+ r montags und mittwochs im Stream auf RTL + \; im Free-TV bei RTL ab dem 1
+ 7. August von Montag bis Donnerstag jeweils um 20:15 Uhr. Finale am 26. Au
+ gust bei RTL+ und am 27. August bei RTL.\n\nQuelle: TVMovie Trash-TV-Kalen
+ der\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-real
+ ity-tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -253,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-24-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -263,45 +209,96 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-08-24-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260812T053936Z
 UID:2026-08-24-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-DTSTAMP:20260811T051156Z
-UID:2026-08-27-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:am: Die Verräter läuft mit acht Folgen ab dem 17. August von
-  Montag bis Donnerstag jeweils um 20:15 Uhr bei RTL . Auf RTL+ beginnt das
-  Rätselraten bereits ab dem 3. August . Immer montags und mittwochs steht
-  jeweils eine neue Folge bereit. Das große Finale läuft bei RTL am 27. A
- ugust und ist auf RTL+ schon einen Tag früher zu sehen.\n\nQuelle: TVMovi
- e Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendete
- rmine-start-reality-tv-rtl-joyn-151130
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260812T053936Z
+UID:2026-08-24-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Beauty & the Nerd “
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DTSTAMP:20260812T053936Z
+UID:2026-08-25-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:am: „ Das Sommerhaus der Stars“ : Start bei RTL+ am 25. Au
+ gust 2026 \, danach immer dienstags eine neue Folge (10 Folgen insgesamt).
+  Im Free-TV startet die Staffel am 8. September um 20.15 Uhr bei RTL .\n\n
+ Quelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-ka
+ lender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Die Verräter
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DTSTAMP:20260812T053936Z
+UID:2026-08-26-die-verräter@trash-tv-kalender
+DESCRIPTION:finale am: Die Verräter : immer montags und mittwochs im Stre
+ am auf RTL + \; im Free-TV bei RTL ab dem 17. August von Montag bis Donner
+ stag jeweils um 20:15 Uhr. Finale am 26. August bei RTL+ und am 27. August
+  bei RTL.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/new
+ s/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Die Verräter
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260811T051156Z
-UID:2026-08-27-die-neue-staffel--beauty--the-nerd@trash-tv-kalender
-DESCRIPTION:startet am: Die neue Staffel „ Beauty & the Nerd “ startet
-  am 27. August bei Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.
- tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1
- 51130
+DTSTAMP:20260812T053936Z
+UID:2026-08-27-die-verräter@trash-tv-kalender
+DESCRIPTION:am: Die Verräter : immer montags und mittwochs im Stream auf 
+ RTL + \; im Free-TV bei RTL ab dem 17. August von Montag bis Donnerstag je
+ weils um 20:15 Uhr. Finale am 26. August bei RTL+ und am 27. August bei RT
+ L.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash
+ -tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Beauty & the Nerd “
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+DTSTAMP:20260812T053936Z
+UID:2026-08-27-beauty--the-nerd@trash-tv-kalender
+DESCRIPTION:startet am: „ Beauty & the Nerd “ startet am 27. August be
+ i Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/t
+ rash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -309,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-27-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -323,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-27-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -337,45 +334,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-28-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DTSTAMP:20260811T051156Z
-UID:2026-08-31-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DTSTAMP:20260811T051156Z
-UID:2026-08-31-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -383,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-08-31-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -393,16 +357,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-08-31-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260812T053936Z
 UID:2026-08-31-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DTSTAMP:20260812T053936Z
+UID:2026-08-31-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+DTSTAMP:20260812T053936Z
+UID:2026-09-01-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -410,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-03-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -424,7 +429,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-03-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -438,45 +443,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-04-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DTSTAMP:20260811T051156Z
-UID:2026-09-07-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DTSTAMP:20260811T051156Z
-UID:2026-09-07-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -484,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-07-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -494,16 +466,56 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-09-07-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260812T053936Z
 UID:2026-09-07-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260812T053936Z
+UID:2026-09-07-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+DTSTAMP:20260812T053936Z
+UID:2026-09-08-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:am: „ Das Sommerhaus der Stars“ : Start bei RTL+ am 25. Au
+ gust 2026 \, danach immer dienstags eine neue Folge (10 Folgen insgesamt).
+  Im Free-TV startet die Staffel am 8. September um 20.15 Uhr bei RTL .\n\n
+ Quelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-ka
+ lender-sendetermine-start-reality-tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -511,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-10-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -525,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-10-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -539,45 +551,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-11-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-DTSTAMP:20260811T051156Z
-UID:2026-09-14-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-DTSTAMP:20260811T051156Z
-UID:2026-09-14-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -585,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-14-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -595,16 +574,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-09-14-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260812T053936Z
 UID:2026-09-14-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260812T053936Z
+UID:2026-09-14-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+DTSTAMP:20260812T053936Z
+UID:2026-09-15-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -612,7 +632,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-17-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -626,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-17-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -640,45 +660,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-18-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-DTSTAMP:20260811T051156Z
-UID:2026-09-21-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-DTSTAMP:20260811T051156Z
-UID:2026-09-21-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -686,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-21-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -696,16 +683,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-09-21-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260812T053936Z
 UID:2026-09-21-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260812T053936Z
+UID:2026-09-21-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260812T053936Z
+UID:2026-09-22-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -713,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-24-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -727,7 +755,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-24-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -741,45 +769,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-25-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-DTSTAMP:20260811T051156Z
-UID:2026-09-28-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-DTSTAMP:20260811T051156Z
-UID:2026-09-28-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -787,7 +782,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-09-28-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -797,16 +792,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-09-28-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260812T053936Z
 UID:2026-09-28-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260812T053936Z
+UID:2026-09-28-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+DTSTAMP:20260812T053936Z
+UID:2026-09-29-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -814,7 +850,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-01-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -828,7 +864,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-01-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -842,45 +878,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-02-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20260811T051156Z
-UID:2026-10-05-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20260811T051156Z
-UID:2026-10-05-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -888,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-05-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -898,16 +901,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-10-05-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20260812T053936Z
 UID:2026-10-05-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+DTSTAMP:20260812T053936Z
+UID:2026-10-05-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+DTSTAMP:20260812T053936Z
+UID:2026-10-06-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -915,7 +959,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-08-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -929,7 +973,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-08-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -943,45 +987,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-09-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-DTSTAMP:20260811T051156Z
-UID:2026-10-12-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-DTSTAMP:20260811T051156Z
-UID:2026-10-12-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -989,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-12-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -999,16 +1010,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-10-12-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20260812T053936Z
 UID:2026-10-12-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20260812T053936Z
+UID:2026-10-12-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260812T053936Z
+UID:2026-10-13-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -1016,7 +1068,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-15-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1030,7 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-15-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1044,45 +1096,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-16-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20260811T051156Z
-UID:2026-10-19-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20260811T051156Z
-UID:2026-10-19-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -1090,7 +1109,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-19-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1100,16 +1119,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-10-19-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260812T053936Z
 UID:2026-10-19-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260812T053936Z
+UID:2026-10-19-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260812T053936Z
+UID:2026-10-20-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -1117,7 +1177,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-22-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1131,7 +1191,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-22-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1145,45 +1205,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-23-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-DTSTAMP:20260811T051156Z
-UID:2026-10-26-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-DTSTAMP:20260811T051156Z
-UID:2026-10-26-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -1191,7 +1218,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-26-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1201,16 +1228,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-10-26-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260812T053936Z
 UID:2026-10-26-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20260812T053936Z
+UID:2026-10-26-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20260812T053936Z
+UID:2026-10-27-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -1218,7 +1286,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-29-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1232,7 +1300,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-29-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1246,45 +1314,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-10-30-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-DTSTAMP:20260811T051156Z
-UID:2026-11-02-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-DTSTAMP:20260811T051156Z
-UID:2026-11-02-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -1292,7 +1327,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-11-02-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1302,16 +1337,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-11-02-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20260812T053936Z
 UID:2026-11-02-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DTSTAMP:20260812T053936Z
+UID:2026-11-02-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20260812T053936Z
+UID:2026-11-03-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -1319,7 +1395,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-11-05-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1333,7 +1409,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-11-05-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1347,45 +1423,12 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-11-06-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
- mer freitags eine neue Folge bei RTL +\n\nQuelle: TVMovie Trash-TV-Kalende
- r\nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-realit
- y-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die Verräter läuft mit acht Folgen
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-DTSTAMP:20260811T051156Z
-UID:2026-11-09-die-verräter-läuft-mit-acht-folgen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die Verräter läuft
-  mit acht Folgen ab dem 17. August von Montag bis Donnerstag jeweils um 20
- :15 Uhr bei RTL . Auf RTL+ beginnt das Rätselraten bereits ab dem 3. Augu
- st . Immer montags und mittwochs steht jeweils eine neue Folge bereit. Das
-  große Finale läuft bei RTL am 27. August und ist auf RTL+ schon einen T
- ag früher zu sehen.\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvm
- ovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-1511
- 30
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 Die neue Staffel „ Villa der Versuchung “ läuft ab dem 3
- . August 2026 immer montags um 20
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-DTSTAMP:20260811T051156Z
-UID:2026-11-09-die-neue-staffel--villa-der-versuchung--läuft-ab-dem-3-aug
- ust-2026-immer-montags@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Die neue Staffel „
-  Villa der Versuchung “ läuft ab dem 3. August 2026 immer montags um 20
- :15 Uhr in Sat.1\, parallel könnt ihr die Show auch über Joyn streamen\n
- \nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-
- kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+ mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
+ \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
+ -tv-rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
@@ -1393,7 +1436,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
 UID:2026-11-09-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1403,16 +1446,57 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 „Dschungel Divas - Jede Versuchung kostet“
+SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260811T051156Z
+DTSTAMP:20260812T053936Z
+UID:2026-11-09-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260812T053936Z
 UID:2026-11-09-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Dschungel Divas -
-  Jede Versuchung kostet“ : das neue Reality-TV-Format startet ab dem 3. 
- August und läuft jeweils montags um 22:15 Uhr bei Sat.1 und im Stream bei
-  Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/tr
- ash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DTSTAMP:20260812T053936Z
+UID:2026-11-09-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Das Sommerhaus der Stars“
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DTSTAMP:20260812T053936Z
+UID:2026-11-10-das-sommerhaus-der-stars@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
+ er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
+ eine neue Folge (10 Folgen insgesamt). Im Free-TV startet die Staffel am 8
+ . September um 20.15 Uhr bei RTL .\n\nQuelle: TVMovie Trash-TV-Kalender\nh
+ ttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv
+ -rtl-joyn-151130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
