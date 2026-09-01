@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-08-12-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:startet am: „ Are You The One? – Realitystars in Love “ 
  startet am 12. August bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps
@@ -20,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-08-17-die-verräter@trash-tv-kalender
 DESCRIPTION:ab dem: Die Verräter : immer montags und mittwochs im Stream 
  auf RTL + \; im Free-TV bei RTL ab dem 17. August von Montag bis Donnersta
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-08-25-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:am: „ Das Sommerhaus der Stars“ : Start bei RTL+ am 25. Au
  gust 2026 \, danach immer dienstags eine neue Folge (10 Folgen insgesamt).
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-08-26-die-verräter@trash-tv-kalender
 DESCRIPTION:finale am: Die Verräter : immer montags und mittwochs im Stre
  am auf RTL + \; im Free-TV bei RTL ab dem 17. August von Montag bis Donner
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Die Verräter
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-08-27-die-verräter@trash-tv-kalender
 DESCRIPTION:am: Die Verräter : immer montags und mittwochs im Stream auf 
  RTL + \; im Free-TV bei RTL ab dem 17. August von Montag bis Donnerstag je
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Beauty & the Nerd “
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-08-27-beauty--the-nerd@trash-tv-kalender
 DESCRIPTION:startet am: „ Beauty & the Nerd “ startet am 27. August be
  i Joyn\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/t
@@ -85,63 +85,10 @@ URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📺 Goodbye Deutschland
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DTSTAMP:20260831T104013Z
-UID:2026-08-31-goodbye-deutschland@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
-  immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
- lle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-kalen
- der-sendetermine-start-reality-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 „ Amore unter Palmen “
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DTSTAMP:20260831T104013Z
-UID:2026-08-31-amore-unter-palmen@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
- en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
- ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
- /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DTSTAMP:20260831T104013Z
-UID:2026-08-31-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
- - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
- hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
- news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📺 „ Villa der Versuchung “
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DTSTAMP:20260831T104013Z
-UID:2026-08-31-villa-der-versuchung@trash-tv-kalender
-DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
- hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
- ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
- vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
- 1130
-URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
- ty-tv-rtl-joyn-151130
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-01-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -156,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-02-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -169,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-03-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -183,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-03-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -197,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-04-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -210,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-07-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -223,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-07-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -236,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-07-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -249,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-07-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -263,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-08-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:start am: „ Das Sommerhaus der Stars“ : Dienstags eine neu
  e Folge bei RTL +. Free-TV-Start am 8. September um 20.15 Uhr bei RTL .\n\
@@ -276,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Surviving Amazonas - Die Prüfung der Shanenawa “
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-08-surviving-amazonas---die-prüfung-der-shanenawa@trash-tv-ka
  lender
 DESCRIPTION:Termin: „ Surviving Amazonas - Die Prüfung der Shanenawa 
@@ -290,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-09-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -303,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-10-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -317,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-10-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -331,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-11-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -344,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-14-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -357,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-14-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -370,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-14-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -383,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-14-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -397,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-15-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -412,7 +359,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-16-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -425,7 +372,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-17-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -439,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-17-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -453,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-18-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -466,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-21-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -479,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-21-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -492,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-21-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -505,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-21-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -519,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-22-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -534,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Love Island VIP
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-23-love-island-vip@trash-tv-kalender
 DESCRIPTION:Termin: Love Island VIP : Start am Mittwoch\, 23. September 20
  26\, auf RTL2 und RTL+\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
@@ -547,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-23-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -560,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-24-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -574,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-24-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -588,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-25-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -601,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-28-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -614,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-28-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -627,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-28-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -640,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-28-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -654,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-29-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -669,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-09-30-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -682,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-01-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -696,7 +643,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-01-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -710,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-02-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -723,7 +670,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-05-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -736,7 +683,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-05-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -749,7 +696,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-05-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -762,7 +709,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-05-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -776,7 +723,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-06-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -791,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-07-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -804,7 +751,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-08-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -818,7 +765,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-08-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -832,7 +779,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-09-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -845,7 +792,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-12-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -858,7 +805,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-12-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -871,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-12-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -884,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-12-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -898,7 +845,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-13-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -913,7 +860,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-14-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -926,7 +873,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-15-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -940,7 +887,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-15-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -954,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-16-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -967,7 +914,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-19-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -980,7 +927,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-19-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -993,7 +940,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-19-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -1006,7 +953,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-19-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -1020,7 +967,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-20-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -1035,7 +982,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-21-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -1048,7 +995,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-22-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1062,7 +1009,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-22-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1076,7 +1023,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-23-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1089,7 +1036,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-26-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1102,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-26-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -1115,7 +1062,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-26-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -1128,7 +1075,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-26-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -1142,7 +1089,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-27-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -1157,7 +1104,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-28-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -1170,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-29-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1184,7 +1131,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-29-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1198,7 +1145,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-10-30-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1211,7 +1158,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-02-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1224,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-02-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -1237,7 +1184,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-02-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -1250,7 +1197,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-02-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -1264,7 +1211,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-03-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -1279,7 +1226,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-04-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -1292,7 +1239,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-05-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1306,7 +1253,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-05-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1320,7 +1267,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-06-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1333,7 +1280,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-09-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1346,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-09-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -1359,7 +1306,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-09-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -1372,7 +1319,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-09-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -1386,7 +1333,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-10-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -1401,7 +1348,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-11-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -1414,7 +1361,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-12-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1428,7 +1375,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-12-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1442,7 +1389,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-13-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1455,7 +1402,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-16-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1468,7 +1415,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-16-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -1481,7 +1428,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-16-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -1494,7 +1441,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-16-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -1508,7 +1455,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-17-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -1523,7 +1470,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-18-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -1536,7 +1483,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-19-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1550,7 +1497,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-19-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1564,7 +1511,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-20-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
@@ -1577,7 +1524,7 @@ BEGIN:VEVENT
 SUMMARY:📺 Goodbye Deutschland
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-23-goodbye-deutschland@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
   immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
@@ -1590,7 +1537,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Amore unter Palmen “
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-23-amore-unter-palmen@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
  en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
@@ -1603,7 +1550,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-23-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
  - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
@@ -1616,7 +1563,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Villa der Versuchung “
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-23-villa-der-versuchung@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
  hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
@@ -1630,7 +1577,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Das Sommerhaus der Stars“
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-24-das-sommerhaus-der-stars@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Das Sommerhaus d
  er Stars“ : Start bei RTL+ am 25. August 2026 \, danach immer dienstags 
@@ -1645,7 +1592,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „ Are You The One? – Realitystars in Love “
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-25-are-you-the-one--realitystars-in-love@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Are You The One?
   – Realitystars in Love “: Mittwochs zwei neue Folgenbei RTL+\n\nQuell
@@ -1658,7 +1605,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Eden - Du bezahlst für jede Lüge“
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-26-eden---du-bezahlst-für-jede-lüge@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Eden - Du bezahls
  t für jede Lüge“: zwei neue Folgen laufen donnerstags im Stream bei Jo
@@ -1672,7 +1619,7 @@ BEGIN:VEVENT
 SUMMARY:📺 „Good Luck Guys“
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-26-good-luck-guys@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „Good Luck Guys“
   : immer donnerstags gibt es zwei Folgen bei Joyn und am Freitag im Free-T
@@ -1686,12 +1633,65 @@ BEGIN:VEVENT
 SUMMARY:📺 Ex on the Beach
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20260831T104013Z
+DTSTAMP:20260901T091609Z
 UID:2026-11-27-ex-on-the-beach@trash-tv-kalender
 DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Ex on the Beach : im
  mer freitags eine neue Folge bei RTL+\n\nQuelle: TVMovie Trash-TV-Kalender
  \nhttps://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reality
  -tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 Goodbye Deutschland
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260901T091609Z
+UID:2026-11-30-goodbye-deutschland@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: Goodbye Deutschland:
+  immer montags um 20:15 Uhr eine Doppelfolge bei VOX sowie bei RTL+\n\nQue
+ lle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news/trash-tv-kalen
+ der-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Amore unter Palmen “
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260901T091609Z
+UID:2026-11-30-amore-unter-palmen@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Amore unter Palm
+ en “: immer montags bei Joyn im Stream und um 0:55 Uhr in Doppelfolgen b
+ ei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/news
+ /trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Dschungel Divas - Jede Versuchung kostet “
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260901T091609Z
+UID:2026-11-30-dschungel-divas---jede-versuchung-kostet@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Dschungel Divas 
+ - Jede Versuchung kostet “ : immer montags im Stream bei Joyn um 22:15 U
+ hr bei Sat.1\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.tvmovie.de/
+ news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-151130
+URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
+ ty-tv-rtl-joyn-151130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📺 „ Villa der Versuchung “
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20260901T091609Z
+UID:2026-11-30-villa-der-versuchung@trash-tv-kalender
+DESCRIPTION:Wöchentlicher Termin / laufende Sendung: „ Villa der Versuc
+ hung “: immer montags um 20:15 Uhr in Sat.1\, parallel könnt ihr die Sh
+ ow über Joyn streamen\n\nQuelle: TVMovie Trash-TV-Kalender\nhttps://www.t
+ vmovie.de/news/trash-tv-kalender-sendetermine-start-reality-tv-rtl-joyn-15
+ 1130
 URL:https://www.tvmovie.de/news/trash-tv-kalender-sendetermine-start-reali
  ty-tv-rtl-joyn-151130
 END:VEVENT
